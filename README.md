@@ -2,9 +2,9 @@
 
 # Hi there! 👋 I'm Joshua Mark Playda
 
-### 🎓 Recently Graduate in Bachelor of Science in Computer Science (BSCS)
+### 🎓 Bachelor of Science in Computer Science (BSCS)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+Developer;Flutter+Developer;Next.js+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Building+Through+Imagination;Always+Learning+New+Things" />
 
 </div>
 
@@ -15,7 +15,7 @@
 I'm a **Bachelor of Science in Computer Science (BSCS)** graduate passionate about developing modern web and mobile applications. I enjoy solving real-world problems through technology and continuously learning new programming languages, frameworks, and software development practices.
 
 - 🌱 Currently learning **Laravel, Flutter, Next.js**
-- 💼 Interested in **Software Engineering, Web Development, Mobile Development, Game Development**
+- 💼 Interested in **Software Engineering, Mobile Development, Game Development**
 - 🚀 Goal: Become a Professional Full Stack Software Engineer
 - 💡 I enjoy solving programming problems and building practical systems.
 
