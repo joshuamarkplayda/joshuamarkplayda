@@ -16,7 +16,7 @@ I'm a **Bachelor of Science in Computer Science (BSCS)** graduate passionate abo
 
 - 🌱 Currently learning **Laravel, Flutter, Next.js**
 - 💼 Interested in **Software Engineering, Mobile Development, Game Development**
-- 🚀 Goal: Become a Professional Full Stack Software Engineer
+- 🚀 Goal: Build a Game Applications
 - 💡 I enjoy solving programming problems and building practical systems.
 
 ---
@@ -26,7 +26,6 @@ I'm a **Bachelor of Science in Computer Science (BSCS)** graduate passionate abo
 - 🚗 Car Dealership & Rental System
 - 🛒 Laravel E-Commerce Projects
 - 📱 Flutter Mobile Applications
-- ☁️ Cloud Computing & IoT Projects
 - 🎯 Improving Full Stack Development Skills
 
 ---
@@ -61,7 +60,7 @@ I'm a **Bachelor of Science in Computer Science (BSCS)** graduate passionate abo
 
 # 📂 Featured Projects
 
-## 🚗 EliteSpeed Marketplace
+## 🚗 Exotic Car Marketplace
 
 Sports Car Marketplace built using Laravel
 
@@ -97,27 +96,6 @@ Luxury Sports Car Rental & Dealership Platform
 - Reservation System
 - Customer Management
 - Rental Transactions
-
----
-
-## ☁️ Smart Mobility Research
-
-Research focused on
-
-- Cloud Computing
-- Internet of Things (IoT)
-- Smart Transportation
-- Digital Innovation
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
